@@ -1,0 +1,6 @@
+@MobilApplikation_Grupp_3_HostAddress = http://localhost:5193
+
+GET {{MobilApplikation_Grupp_3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
